@@ -129,7 +129,7 @@ body{background:var(--white);-webkit-font-smoothing:antialiased;overflow-x:hidde
   padding:44px 0;
   position:relative;
   text-justify: justify ;
-  background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('image/image_b.jpeg') center/cover no-repeat;
+  background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('image_b.jpeg') center/cover no-repeat;
   background-attachment:fixed;
   background-size:cover;
 }
@@ -344,3 +344,4 @@ body{background:var(--white);-webkit-font-smoothing:antialiased;overflow-x:hidde
 .socials{display:flex;gap:14px;align-items:center}
 .social-link{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;background:var(--green-dark);color:var(--white);text-decoration:none;transition:background .2s ease,transform .2s ease;font-size:1.1rem}
 .social-link:hover{background:var(--gold);color:var(--green-dark);transform:scale(1.1)}
+
